@@ -11,7 +11,7 @@ L3_Hattrick |1312472 |Hoàng Thái Sơn |hoangthaison985@gmail.com |sonhoang06
 S1_5M |1312373 |Nguyễn Hoàng Nam | nhn12.hoangnam@gmail.com| nhn12
 S2_OSS |1312655 |Đào Minh Tuấn | daominhtuan1995@gmail.com | minhtuan1995
 S3_MaxTeam |1312470 |Cao Văn Quyền | doa9595@gmail.com| quyen91
-L4_TheEnd |??? |Nguyễn Quốc Đạt | | 
+L4_TheEnd | 1212074 | Nguyễn Quốc Đạt | nquocdat94@gmail.com | nguyendatz
 
 
 
